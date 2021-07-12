@@ -10,4 +10,4 @@ I'm a Software Developer who has an extensive background in various coding langu
 - 🦀 SW Script Writer
 
 ## Working Script
-- 🧱 RearGen Modular
+- 🧱 RearGen (Beta)
