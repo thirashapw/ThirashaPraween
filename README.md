@@ -11,3 +11,4 @@ I'm a Software Developer who has an extensive background in various coding langu
 
 ## Working Script
 - 🧱 [RearGen (beta)](https://github.com/ThirashaPraween/RearGen)
+- 🤖 [RolarBot](https://github.com/ThirashaPraween/RearGen)
