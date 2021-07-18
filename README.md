@@ -9,6 +9,6 @@ I'm a Software Developer who has an extensive background in various coding langu
 - 🤖 AI/ML Enthusiast
 - 🦀 SW Script Writer
 
-## Working Script
+## Working Scripts
 - 🧱 [RearGen (beta)](https://github.com/ThirashaPraween/RearGen)
 - 🤖 [RolarBot](https://github.com/ThirashaPraween/RearGen)
