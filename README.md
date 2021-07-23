@@ -24,7 +24,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
   </a>
 </p>
 
- ![Build man](https://img.shields.io/amo/stars/dustman)  ![Build man](https://img.shields.io/badge/Developer-ThirashaPW-blueviolet) [![Repos Badge](https://badges.pufler.dev/repos/ThirashaPraween)](https://github.com/ThirashaPraween?tab=repositories)
+
 
 
 - 👨‍💻 Fullstack Developer
