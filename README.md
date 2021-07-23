@@ -38,8 +38,3 @@ I'm a fullstack dev who has an extensive background in various coding languages,
   </a>
 </p>
 
-
-
-## Recent Scripts
-- 🧱 [RearGen (Stable)](https://github.com/ThirashaPraween/RearGen)
-- 🤖 [RolarBot](https://rolarbot.herokuapp.com)
