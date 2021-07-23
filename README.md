@@ -32,9 +32,12 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 - 🦀 SW Script Writer
 
 <br>
-<a href="https://www.buymeacoffee.com/thirashapraween">
-    <img src="https://camo.githubusercontent.com/2ef5c63105d22716d9d093d2c8b77cd7aa9d540b/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="60px"/>
-</a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/thirashapraween">
+      <img src="https://camo.githubusercontent.com/2ef5c63105d22716d9d093d2c8b77cd7aa9d540b/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="60px"/>
+  </a>
+</p>
+
 
 
 ## Working Scripts
