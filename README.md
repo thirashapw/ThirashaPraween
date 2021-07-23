@@ -12,7 +12,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
   </a>
   &emsp;
   <a href="https://www.buymeacoffee.com/thirashapraween">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
+    <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="30px"/>
   </a> 
   &emsp;
   <a href="https://thirashapraween.github.io">
@@ -30,6 +30,8 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 - 👨‍💻 Fullstack Developer
 - 🤖 AI/ML Enthusiast
 - 🦀 SW Script Writer
+
+## Buy me a coffee
 
 ## Working Scripts
 - 🧱 [RearGen (Stable)](https://github.com/ThirashaPraween/RearGen)
