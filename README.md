@@ -28,7 +28,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 
 
 - 👨‍💻 Fullstack Developer
-- 🤖 AI/ML Enthusiast
+- 🤖 AI/ML Tools Developer
 - 🦀 SW Script Writer
 
 <br>
