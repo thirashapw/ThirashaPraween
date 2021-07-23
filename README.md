@@ -31,8 +31,9 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 - 🤖 AI/ML Enthusiast
 - 🦀 SW Script Writer
 
+<br>
 <a href="https://www.buymeacoffee.com/thirashapraween">
-    <img src="https://static.wixstatic.com/media/9f0ade_c595edb836a94b4a8c2a485d378a49d0~mv2.png/v1/fill/w_940,h_235,al_c,lg_1,q_85/buy-me-a-coffee-button.webp" height="60px"/>
+    <img src="https://camo.githubusercontent.com/2ef5c63105d22716d9d093d2c8b77cd7aa9d540b/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="60px"/>
 </a>
 
 
