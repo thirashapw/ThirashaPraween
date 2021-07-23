@@ -4,7 +4,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 
 <p align="center">
   <a href="https://dev.to/thirashapraween">
-    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
+    <img src="https://svgshare.com/i/ZTW.svg" width="24px"/>
   </a>
   &emsp;
   <a href= "https://www.instagram.com/thirasha_pw">
@@ -12,7 +12,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
   </a>
   &emsp;
   <a href="https://www.buymeacoffee.com/thirashapraween">
-    <img src="https://ps.w.org/buymeacoffee/assets/icon-256x256.png?rev=2424125" width="30px"/>
+    <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
   </a> 
   &emsp;
   <a href="https://thirashapraween.github.io">
