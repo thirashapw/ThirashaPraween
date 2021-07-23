@@ -32,7 +32,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 - 🦀 SW Script Writer
 
 ## Buy me a coffee
-<img src="https://static.wixstatic.com/media/9f0ade_c595edb836a94b4a8c2a485d378a49d0~mv2.png/v1/fill/w_940,h_235,al_c,lg_1,q_85/buy-me-a-coffee-button.webp" width="70px"/>
+<img src="https://static.wixstatic.com/media/9f0ade_c595edb836a94b4a8c2a485d378a49d0~mv2.png/v1/fill/w_940,h_235,al_c,lg_1,q_85/buy-me-a-coffee-button.webp" width="150px"/>
 
 ## Working Scripts
 - 🧱 [RearGen (Stable)](https://github.com/ThirashaPraween/RearGen)
