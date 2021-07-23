@@ -12,7 +12,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
   </a>
   &emsp;
   <a href="https://www.buymeacoffee.com/thirashapraween">
-    <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="30px"/>
+    <img src="https://ps.w.org/buymeacoffee/assets/icon-256x256.png?rev=2424125" width="30px"/>
   </a> 
   &emsp;
   <a href="https://thirashapraween.github.io">
