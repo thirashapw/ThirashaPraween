@@ -24,7 +24,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
   </a>
    &emsp;
   <a href="https://www.patreon.com/thirasha">
-    <img src="https://i.imgur.com/lXTbQbF.png" width="26px"/>
+    <img src="https://i.imgur.com/eCiOXF9.png" width="26px"/>
   </a>
 </p>
 
