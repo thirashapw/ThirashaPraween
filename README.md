@@ -24,7 +24,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
   </a>
    &emsp;
   <a href="https://www.patreon.com/thirasha">
-    <img src="https://i.imgur.com/AL1EVL0.jpg" width="26px"/>
+    <img style="filter: grayscale(100%)" src="https://i0.wp.com/decentered.co.uk/wp-content/uploads/2019/12/patreon-logo-png-badge-7.png?fit=541%2C540&ssl=1" width="26px"/>
   </a>
 </p>
 
