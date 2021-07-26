@@ -35,3 +35,8 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 - 🤖 AI/ML Tools Developer
 - 🦀 SW Script Writer
 
+You can buy me a coffee, that might help me focus and develop new tools!
+- [Buy me a coffee](https://www.buymeacoffee.com/thirashapraween)
+- [Support me on patreon](https://www.patreon.com/thirasha)
+- [Paypal.me](https://paypal.me/thirashapw?locale.x=en_US) 
+
