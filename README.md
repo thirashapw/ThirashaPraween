@@ -40,3 +40,8 @@ You can buy me a coffee, that might help me focus and develop new tools!
 - [Support me on patreon](https://www.patreon.com/thirasha)
 - [Paypal.me](https://paypal.me/thirashapw?locale.x=en_US) 
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
+
