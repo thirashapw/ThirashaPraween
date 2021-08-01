@@ -32,7 +32,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
 
 
 - 👨‍💻 Fullstack Developer
-- 🤖 AI/ML Tools Developer
+- 🤖 AI/ML Developer
 - 🦀 SW Script Writer
 
 You can buy me a coffee, that might help me focus and develop new tools!
