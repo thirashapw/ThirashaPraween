@@ -37,6 +37,7 @@ You can buy me a coffee, that might help me focus and develop new tools!
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Easy Deployment On Heroku](https://medium.com/@thirashapraween/django-easy-deployment-on-heroku-7b7ff2d29de8?source=rss-5ca755a0973d------2)
 - [Build Your Android App with HTML, CSS, JS](https://medium.com/@thirashapraween/build-your-android-app-with-html-css-js-98b4f7f3a8ad?source=rss-5ca755a0973d------2)
 - [RolarBot: AI Paragraph Questions and Answers](https://medium.com/@thirashapraween/rolarbot-ai-paragraph-questions-and-answers-3832b2d5e689?source=rss-5ca755a0973d------2)
 <!-- BLOG-POST-LIST:END -->
