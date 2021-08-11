@@ -15,7 +15,7 @@ I'm a fullstack dev who has an extensive background in various coding languages,
     <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
   </a> 
   &emsp;
-  <a href="http://thirashapw.com">
+  <a href="https://thirashapw.com">
     <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
   </a>
   &emsp;
