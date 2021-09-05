@@ -37,10 +37,10 @@ You can buy me a coffee, that might help me focus and develop new tools!
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Logistic Regression — Binary Classification](https://thirashapraween.medium.com/understanding-logistic-regression-binary-classification-9460d1d6a373?source=rss-5ca755a0973d------2)
 - [Math Behind Simple Linear Regression + Scikit Learn](https://thirashapraween.medium.com/math-behind-simple-linear-regression-scikit-learn-175225cb851b?source=rss-5ca755a0973d------2)
 - [Deno WebSocket Realtime Chat App + TypeScript](https://thirashapraween.medium.com/deno-websocket-realtime-chat-app-typescript-3d7f9604d09d?source=rss-5ca755a0973d------2)
 - [Create a Synthesizes Natural Sounding Speech From Text Tool](https://thirashapraween.medium.com/create-a-synthesizes-natural-sounding-speech-from-text-tool-43b61db39312?source=rss-5ca755a0973d------2)
 - [Django Easy Deployment On Heroku](https://thirashapraween.medium.com/django-easy-deployment-on-heroku-7b7ff2d29de8?source=rss-5ca755a0973d------2)
-- [Build Your Android App with HTML, CSS, JS](https://thirashapraween.medium.com/build-your-android-app-with-html-css-js-98b4f7f3a8ad?source=rss-5ca755a0973d------2)
 <!-- BLOG-POST-LIST:END -->
 
