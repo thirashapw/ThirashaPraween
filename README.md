@@ -1,7 +1,5 @@
 ﻿# Hi there 👋
-
-I'm a fullstack dev who has an extensive background in various coding languages, developing web applications, native and cross-platform mobile apps developing and AI/ML/Blockchain from the ground up. 
-
+ 
 <p align="center">
   <a href="https://dev.to/thirashapraween">
     <img src="https://svgshare.com/i/ZTW.svg" width="24px"/>
